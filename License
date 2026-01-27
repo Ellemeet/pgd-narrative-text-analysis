@@ -1,0 +1,25 @@
+# License – Opinion Lexicon (Negative Affect Words)
+
+The negative affect word list in this repository is part of the Opinion Lexicon compiled by Minqing Hu and Bing Liu (2004). This dataset is provided **for non-commercial academic and research purposes only**.
+
+You are free to:
+- Use the dataset in academic research, theses, and publications.
+- Share and redistribute it for educational or research purposes, provided proper attribution is given.
+
+You may **not**:
+- Use this dataset for commercial purposes or to create a commercial product.
+- Claim ownership of the lexicon or its contents.
+
+## Citation
+
+If you use this lexicon, please cite the original source:
+
+Hu, M., & Liu, B. (2004). *Mining and summarizing customer reviews.* Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD-2004), Seattle, Washington, USA, August 22–25, 2004.
+
+You may also reference the GitHub repository for reproducibility:
+
+[GitHub repository link]
+
+---
+
+This license is provided to comply with the original terms specified by the authors. Use responsibly and always provide attribution.
